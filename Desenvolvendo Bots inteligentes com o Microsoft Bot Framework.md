@@ -40,6 +40,8 @@ O seguinte é necessário para completar este laboratório prático
 
 [Clique aqui](https://a4r.blob.core.windows.net/public/bots-resources.zip) para baixar um arquivo zip contendo os recursos usados ​​neste laboratório. Copie o conteúdo do arquivo zip em uma pasta no seu disco rígido.
 
+---
+
 <a name="Exercises"></a>
 ### Exercícios ###
 
