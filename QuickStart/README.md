@@ -2,7 +2,7 @@
 
 ## Pré requisitos
 
-1. Uma assinatura do Microsoft Azure é necessária para usar o Azure Bot Service. Caso ainda não tenha uma assinatura, é possível se registrar para o [**Trial Gratuito**](https://azure.microsoft.com/en-us/free/)
+1. Uma assinatura do Microsoft Azure é necessária para usar o Azure Bot Service. Caso ainda não tenha uma assinatura, é possível se registrar para o [**Trial Gratuito**](https://aka.ms/bots-azure-free)
 
 2. Última versão do Visual Studio 2017 - [**Download**](https://www.visualstudio.com/downloads/)
 
