@@ -7,18 +7,18 @@ O nível do curso vai do básico ao avançado no desenvolvimento de Bots e para 
 Confira algumas dicas e referência para desenvolvimento com C#:
 
 - [Enumeração](https://msdn.microsoft.com/pt-br/library/cc138362.aspx)
-- [Construtores ](https://msdn.microsoft.com/pt-br/library/ms173115.aspx)
-- [Interfaces ](https://msdn.microsoft.com/pt-br/library/ms173156.aspx)
-- [Herança ](https://msdn.microsoft.com/pt-br/library/ms173149.aspx)
-- [Eventos ](https://msdn.microsoft.com/pt-br/library/ms366768.aspx)
+- [Construtores](https://msdn.microsoft.com/pt-br/library/ms173115.aspx)
+- [Interfaces](https://msdn.microsoft.com/pt-br/library/ms173156.aspx)
+- [Herança](https://msdn.microsoft.com/pt-br/library/ms173149.aspx)
+- [Eventos](https://msdn.microsoft.com/pt-br/library/ms366768.aspx)
 - [Delegate ](https://msdn.microsoft.com/es-es/library/ms173171.aspx)
-- [Linq ](https://msdn.microsoft.com/pt-br/library/bb397676.aspx)
-- [Expressões lambda ](https://msdn.microsoft.com/pt-br/library/bb397687.aspx)
+- [Linq](https://msdn.microsoft.com/pt-br/library/bb397676.aspx)
+- [Expressões lambda](https://msdn.microsoft.com/pt-br/library/bb397687.aspx)
 - [Diretivas de compilação](https://msdn.microsoft.com/pt-br/library/4y6tbswk.aspx) **(começando por #if)**
 - [Conversões de dados](https://msdn.microsoft.com/pt-br/library/ms173105.aspx)
-- [Manipulação de exceções ](https://msdn.microsoft.com/pt-br/library/ms173160.aspx)
- [Genéricos](https://msdn.microsoft.com/pt-br/library/512aeb7t.aspx)
-- [Async e Await ](https://msdn.microsoft.com/pt-br/library/hh156513.aspx)
+- [Manipulação de exceções](https://msdn.microsoft.com/pt-br/library/ms173160.aspx)
+- [Genéricos](https://msdn.microsoft.com/pt-br/library/512aeb7t.aspx)
+- [Async e Await](https://msdn.microsoft.com/pt-br/library/hh156513.aspx)
 
 Os temas são apenas uma recomendação, não é obrigatório conhecer todos para iniciar a #MaratonaBots, pois como o treinamento é focado em hands on (prática), você poderá aprender ou reforçar seus conhecimentos nestes itens.
 
