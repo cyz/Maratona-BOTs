@@ -2,7 +2,7 @@ El Bot Builder SDK para Node.js es un marco para el desarrollo de bots. Es fáci
 
 Este tutorial le ayudará a configurar su entorno y construir un bot simple mediante el SDK de Bot Builder a Node.js. Usted puede probar el bot en una ventana de consola y con el Bot Framework Emulator.
 
-Una firma de Microsoft Azure es necesaria para usar el Azure Bot Service. Si aún no tiene una firma, es posible registrarse para [**Trial Gratuito**](https://aka.ms/bots-azure-free).
+Una firma de Microsoft Azure es necesaria para usar el Azure Bot Service. Si aún no tiene una firma, es posible registrarse para [**Trial Gratuito**](https://azure.microsoft.com/es-mx/free/).
 
 ## Pré-requisitos:
 * Instalar o [Node.js](https://nodejs.org/) em sua máquina
