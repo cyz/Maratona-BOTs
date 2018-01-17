@@ -9,6 +9,8 @@ Este é um repositório de ideias e laboratórios de apoio para os seus estudos.
 | Labotório | Descrição | 
 | -------- | -------- | 
 | [QuickStart](https://github.com/CommunityBootcamp/Maratona-BOTs/tree/master/QuickStart)     | Configuração de ambiente de desenvolvimento em C#     | 
+| [QuickStart](https://github.com/CommunityBootcamp/Maratona-BOTs/blob/master/QuickStart/configurando-ambiente-nodejs.md)     | Configuração de ambiente de desenvolvimento em Node.js    | 
+
 
 
 # Bots Diplomado
