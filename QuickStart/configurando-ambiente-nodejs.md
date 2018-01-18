@@ -9,7 +9,7 @@ Uma assinatura do Microsoft Azure é necessária para usar o Azure Bot Service. 
 ## Pré-requisitos:
 * Instalar o [Node.js](https://nodejs.org/) em sua máquina
 * Instalar o [Bot Emulator](http://emulator.botframework.com/)
-* Instalar o [Visual Studio Code](code.visualstudio.com)
+* Instalar o [Visual Studio Code](http://code.visualstudio.com)
 * Criar uma pasta para o seu bot e abri-la no Visual Studio Code
 * No terminal do Visual Studio Code, você deve executar o seguinte comando:
 ```javascript=
