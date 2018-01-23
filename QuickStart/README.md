@@ -17,8 +17,12 @@
     >![](https://raw.githubusercontent.com/CommunityBootcamp/Maratona-BOTs/master/QuickStart/images/07.PNG)   
 
 4. Download dos arquivos .zip [**Bot Application**](http://aka.ms/bf-bc-vstemplate), [**Bot Controller**](http://aka.ms/bf-bc-vscontrollertemplate), e [**Bot Dialog**](http://aka.ms/bf-bc-vsdialogtemplate). Esses arquivos devem ser instalados na pasta de templates de projetos do Visual Studio 2017.
-    > Por padrão, o diretório de templates de projetos do Visual Studio 2017 se localiza em: 
+
+    > O aquirvo **Bot Application.zip** deve ser descompactado no diretório de templates de projetos do Visual Studio 2017 que está localizado em:
     > `%USERPROFILE%\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#\`
+    >    
+    > Depois, você deve descompactar os outros arquivos: **Bot Controller.zip** e **Bot Dialog.zip** no diretório de Item Templates do Visual Studio 2017 que está localizado em:
+    > `%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#\`
     >
     >![](https://raw.githubusercontent.com/CommunityBootcamp/Maratona-BOTs/master/QuickStart/images/03.PNG)
 
