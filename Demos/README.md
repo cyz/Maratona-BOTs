@@ -13,7 +13,9 @@ Abaixo segue os códigos desenvolvidos de seu respectivo módulo e lição da ma
         - [QnABotWithActiveLearning](https://github.com/CommunityBootcamp/Maratona-BOTs/tree/master/Demos/Modulo_2_Licao_2/QnABotWithActiveLearning)
 
 - Módulo 3
+
     *Códigos do Módulo 3
-        -[Bot desenvolvido no Módulo 3](https://github.com/CommunityBootcamp/Maratona-BOTs/tree/master/Demos/Modulo_3)
+
+        - [Bot desenvolvido no Módulo 3](https://github.com/CommunityBootcamp/Maratona-BOTs/tree/master/Demos/Modulo_3)
 
 **documentação em desenvolvimento**
